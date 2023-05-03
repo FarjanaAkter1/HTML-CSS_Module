@@ -1,3 +1,4 @@
+
 *{
     margin: 0;
     padding: 0;
@@ -11,9 +12,8 @@
         display: flex;
         background-color:gray;
         justify-content:baseline;
-        /* flex-wrap:wrap; /*wrap*/
-        flex-direction:column; /* default is row*/
-        padding: 0px;
+        flex-direction:column; 
+        padding: 50px;
         
     }
      
@@ -22,9 +22,18 @@
         display: flex;
         background-color:grey;
         justify-content:baseline;
-        /* flex-wrap:wrap; /*wrap*/
-        flex-direction:column; /* default is row*/
+        flex-direction:column; 
+        padding:0px;
+      }
+
+      .flex-container-3 {
+
+        display: flex;
+        background-color:gray;
+        justify-content:baseline;
+         flex-direction:column; 
         padding: 0px;
+
 
       }
 
@@ -33,22 +42,8 @@
         display: flex;
         background-color:gray;
         justify-content:baseline;
-        /* flex-wrap:wrap; /*wrap*/
-        flex-direction:column; /* default is row*/
+        flex-direction:column; 
         padding: 0px;
-
-
-      }
-
-      .flex-container-3 {
-
-        display: flex;
-        background-color:gray;
-        justify-content:baseline;
-        /* flex-wrap:wrap; /*wrap*/
-        flex-direction:column; /* default is row*/
-        padding: 0px;
-
 
       }
 
@@ -57,10 +52,8 @@
         display: flex;
         background-color:gray;
         justify-content:baseline;
-        /* flex-wrap:wrap; /*wrap*/
-        flex-direction:column; /* default is row*/
+      flex-direction:column; 
         padding: 0px;
-
 
       }
 
@@ -86,7 +79,7 @@
         margin: 10px;
         height: 100px;
         flex-basis: 100px;
-        background-color:lightcoral
+        background-color:lightcoral;
         border-radius: 15px;
         border: 1px solid white;
         padding: 10px;
@@ -100,7 +93,7 @@
         margin: 10px;
         height: 100px;
         flex-basis: 100px;
-        background-color:lightcoral
+        background-color:lemonchiffon;
         border-radius: 15px;
         border: 1px solid white;
         padding: 10px;
@@ -114,9 +107,9 @@
         margin: 10px;
         height: 100px;
         flex-basis: 100px;
-        background-color:lightseagreen
+        background-color:lightseagreen;
         border-radius: 15px;
-        border: 1px solid white;
-        padding: 10px;
-        margin: 20px;
+        border:1px solid white;
+        padding:10px;
+        margin:20px;
     }

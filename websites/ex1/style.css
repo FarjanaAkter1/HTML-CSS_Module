@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: large;
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    }
+    
+    .flex-container-1 {
+        display: flex;
+        background-color:gray;
+        justify-content:baseline;
+        /* flex-wrap:wrap; /*wrap*/
+        flex-direction:column; /* default is row*/
+        padding: 0px;
+        
+    }
+     
+      .flex-container-2 {
+
+        display: flex;
+        background-color:grey;
+        justify-content:baseline;
+        /* flex-wrap:wrap; /*wrap*/
+        flex-direction:column; /* default is row*/
+        padding: 0px;
+
+      }
+
+      .flex-container-3 {
+
+        display: flex;
+        background-color:gray;
+        justify-content:baseline;
+        /* flex-wrap:wrap; /*wrap*/
+        flex-direction:column; /* default is row*/
+        padding: 0px;
+
+
+      }
+
+      .flex-container-3 {
+
+        display: flex;
+        background-color:gray;
+        justify-content:baseline;
+        /* flex-wrap:wrap; /*wrap*/
+        flex-direction:column; /* default is row*/
+        padding: 0px;
+
+
+      }
+
+      .flex-container-4 {
+
+        display: flex;
+        background-color:gray;
+        justify-content:baseline;
+        /* flex-wrap:wrap; /*wrap*/
+        flex-direction:column; /* default is row*/
+        padding: 0px;
+
+
+      }
+
+
+    .flex-item1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 10px;
+        height: 100px;
+        flex-basis: 100px;
+        background-color:aqua;
+        border-radius: 15px;
+        border: 1px solid white;
+        padding: 10px;
+        margin: 20px;
+    }
+
+    .flex-item2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 10px;
+        height: 100px;
+        flex-basis: 100px;
+        background-color:lightcoral
+        border-radius: 15px;
+        border: 1px solid white;
+        padding: 10px;
+        margin: 20px;
+    }
+
+    .flex-item3{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 10px;
+        height: 100px;
+        flex-basis: 100px;
+        background-color:lightcoral
+        border-radius: 15px;
+        border: 1px solid white;
+        padding: 10px;
+        margin: 20px;
+    }
+
+    .flex-item4 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 10px;
+        height: 100px;
+        flex-basis: 100px;
+        background-color:lightseagreen
+        border-radius: 15px;
+        border: 1px solid white;
+        padding: 10px;
+        margin: 20px;
+    }

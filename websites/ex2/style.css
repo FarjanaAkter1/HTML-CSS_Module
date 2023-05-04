@@ -1,0 +1,23 @@
+
+.submit{
+
+    display: flex; 
+    background-color:lightgray;
+    justify-content:center;
+    padding:35px;
+    text-align: center;
+    
+}
+
+.copyright{
+
+    display: flex; 
+    background-color:grey;
+    align-items:center;
+  padding: 200px;px
+  justify-content:center;
+  
+}
+
+
+

@@ -29,8 +29,6 @@ The logo image is located in `images/logo.png`.
 # Ex. 3
 Create a webpage (`index.html`) and a css file (`style.css`) that closely resembles the following:
 
-![](./docs/ex3.png)
-
 Colors:
 - #ffcdd2
 - #d83519

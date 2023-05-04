@@ -11,7 +11,7 @@
     .flex-container-1 {
         display: flex;
         background-color:gray;
-        justify-content:baseline;
+        justify-content:first baseline;
         flex-direction:column; 
         padding: 50px;
         
@@ -24,6 +24,7 @@
         justify-content:baseline;
         flex-direction:column; 
         padding:0px;
+        
       }
 
       .flex-container-3 {
@@ -37,15 +38,7 @@
 
       }
 
-      .flex-container-3 {
-
-        display: flex;
-        background-color:gray;
-        justify-content:baseline;
-        flex-direction:column; 
-        padding: 0px;
-
-      }
+     
 
       .flex-container-4 {
 
@@ -53,14 +46,14 @@
         background-color:gray;
         justify-content:baseline;
       flex-direction:column; 
-        padding: 0px;
+        padding: 50px;
 
       }
 
 
     .flex-item1{
         display: flex;
-        justify-content: center;
+        justify-content:first baseline;
         align-items: center;
         margin: 10px;
         height: 100px;
@@ -81,29 +74,34 @@
         flex-basis: 100px;
         background-color:lightcoral;
         border-radius: 15px;
-        border: 1px solid white;
+        border: 1px sandybrown;
         padding: 10px;
         margin: 20px;
+
     }
 
     .flex-item3{
         display: flex;
         justify-content: center;
-        align-items: center;
-        margin: 10px;
-        height: 100px;
+        align-items:center;
+        margin: 20px;
+        height: 50px;
         flex-basis: 100px;
         background-color:lemonchiffon;
         border-radius: 15px;
         border: 1px solid white;
         padding: 10px;
         margin: 20px;
+        flex-direction: column;
+        
+        
     }
-
+      
+    
     .flex-item4 {
         display: flex;
-        justify-content: center;
-        align-items: center;
+        justify-content:flex-start;
+        align-items:first baseline;
         margin: 10px;
         height: 100px;
         flex-basis: 100px;

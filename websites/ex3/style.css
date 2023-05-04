@@ -1,0 +1,68 @@
+.logo{
+
+    display:flex; 
+    background-color:black;
+    justify-content:flex-start;
+    padding:5px;
+    text-align: center;
+
+
+}
+.premium{
+    display:flex; 
+    background-color:lightpink;
+    justify-content:flex-start;
+    padding:110px;
+    text-align: center;
+    flex-direction:column;
+
+}
+
+
+.trail{
+display: flex;
+background-color:brown;
+    justify-content:center;
+    padding:0px
+    text-align:center;
+    margin:20px;
+    
+
+
+}
+
+
+
+
+.thirdmusic{
+
+    display:flex; 
+    background-color:blue;
+    justify-content:flex-start;
+    padding:80px;
+    text-align:center;
+    flex-direction: column;
+    
+}
+
+.webbrowser{
+
+display: plex;
+background-color: seagreen;
+padding: 5px;
+text-align: center;
+
+
+}
+
+
+.endlogo{
+
+    display:flex; 
+    background-color:black;
+    justify-content:flex-start;
+    padding:5px;
+    text-align: center:
+
+
+}
